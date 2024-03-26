@@ -1,5 +1,6 @@
 sample code
 https://www.kaggle.com/code/bruceqdu/lession-01-recommend-using-popular-items
+https://github.com/PreferredAI/cornac/blob/master/tutorials/working_with_auxiliary_data.md
 
 https://github.com/grahamjenson/list_of_recommender_systems   
 https://github.com/recommenders-team/recommenders
